@@ -1,0 +1,1 @@
+python inference.py --config configs/inference/inference-base.yaml --input_path garment/garment1.png --output_path mytrial/garment1 --seed 42
